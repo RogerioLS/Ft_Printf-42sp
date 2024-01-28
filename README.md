@@ -2,14 +2,18 @@
 
 # :clipboard: Printf | 42 SP
 
-![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
-![License](https://img.shields.io/github/license/RogerioLS/Ft_Printf-42sp?color=dark-green)
-![Code size in bytes](https://img.shields.io/github/languages/code-size/RogerioLS/Ft_Printf-42sp?color=dark-green)
-![Top language](https://img.shields.io/github/languages/top/RogerioLS/Ft_Printf-42sp?color=dark-green)
-![Last commit](https://img.shields.io/github/last-commit/RogerioLS/Ft_Printf-42sp?color=dark-green)
-![Repo size](https://img.shields.io/github/repo-size/RogerioLS/Ft_Printf-42sp)
-![Languages](https://img.shields.io/github/languages/count/RogerioLS/Ft_Printf-42sp?color=red
-)
+![Norminette](https://github.com/RogerioLS/Ft_Printf-42sp/actions/workflows/norminette.yml/badge.svg)
+![Build](https://github.com/RogerioLS/Ft_Printf-42sp/actions/workflows/build.yml/badge.svg)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/FT_PRINTF-42-blue?logo=repo)
+![42 São Paulo](https://custom-icon-badges.demolab.com/badge/42-SP-1E2952)
+![License](https://custom-icon-badges.demolab.com/github/license/RogerioLS/Ft_Printf-42sp?logo=law&color=dark-green)
+![Code size in bytes](https://custom-icon-badges.demolab.com/github/languages/code-size/RogerioLS/Ft_Printf-42sp?logo=file-code&color=dark-green)
+![Top language](https://custom-icon-badges.demolab.com/github/languages/top/RogerioLS/Ft_Printf-42sp?color=dark-green)
+![Last commit](https://custom-icon-badges.demolab.com/github/last-commit/RogerioLS/Ft_Printf-42sp?logo=history&color=dark-green)
+![Repo size](https://custom-icon-badges.demolab.com/github/repo-size/RogerioLS/Ft_Printf-42sp?logo=database)
+![Languages](https://custom-icon-badges.demolab.com/github/languages/count/RogerioLS/Ft_Printf-42sp?logo=command-palette&color=red)
+![GitHub repo file count (file type)](https://custom-icon-badges.demolab.com/github/directory-file-count/RogerioLS/Ft_Printf-42sp%2Fsources?logo=file&label=files%20sources&color=8602b1)
+![Discord](https://custom-icon-badges.demolab.com/discord/1114673462859006044?&logo=comments&label=testemunhas%20de%20vim&color=ffbe3a)
 </div>
 
 ---
